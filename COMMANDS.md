@@ -3,17 +3,18 @@
 #### ***Everyone:***
 
 ``` !mt help```
+
 > Shows this message
 
-#### ***Owner + Mods:***
+#### ***Server Owner + Mods:***
 
-> !am enable
+```!mt enable```
 
-Enables automod in this channel
+> Enables automod in this channel
 
-> !am disable
+```!mt disable```
 
-Disables automod in this channel
+> Disables automod in this channel
 
 > !am settings modrole @role
 
