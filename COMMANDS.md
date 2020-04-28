@@ -2,7 +2,8 @@
 
 #### ***Everyone:***
 
-``` !mt help - Shows this message ```
+``` !mt help```
+> Shows this message
 
 #### ***Owner + Mods:***
 
