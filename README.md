@@ -1,8 +1,7 @@
-## Table of Contents
+## Page Navigation
 - [ModTools Commands](./COMMANDS.md)
 - [ModTools Information](./PERFORMANCE.md)
-- [ModTools Support](#newPrefix)
-- [ModTools Invite](#commands)
+- [ModTools Invite](https://discordapp.com/api/oauth2/authorize?client_id=634306491310145540&permissions=8&scope=bot)
 
 ## What is ModTools?
 
