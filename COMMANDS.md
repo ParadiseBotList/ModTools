@@ -1,6 +1,11 @@
 # Commands List
 
-## Table Of Contents
+## Page Navigation
+- [About ModTools](./README.md)
+- [ModTools Information](PERFORMANCE.md)
+- [ModTools Invite](https://discordapp.com/api/oauth2/authorize?client_id=634306491310145540&permissions=8&scope=bot)
+
+## Command Categories
 - [Everyone](#everyone)
 - [Moderation](#mod)
 - [Settings](#settings)
@@ -93,6 +98,6 @@ Sets the mute duration in seconds
 
 Shows how often a user recieved a punishment
 
-> !am info reset [@user | userid]
+```!mt info reset [@user | userid]```
 
-Resets all info on that user
+> Resets all info on that user
