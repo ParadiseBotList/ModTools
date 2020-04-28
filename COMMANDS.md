@@ -1,12 +1,19 @@
 # Commands List
 
-#### ***Everyone:***
+## Table Of Contents
+- [Everyone](#everyone)
+- [Moderation](#mod)
+- [Settings](#settings)
+
+<a name="everyone"></a>
+#### ***General:***
 
 ``` !mt help```
 
 > Shows this message
 
-#### ***Server Owner + Mods:***
+<a name="mod"></a>
+#### ***Moderation:***
 
 ```!mt enable```
 
@@ -16,13 +23,15 @@
 
 > Disables automod in this channel
 
-> !am settings modrole @role
+<a name="settings"></a>
+#### ***Settings:***
+```!mt settings modrole @role```
 
-Sets the modrole. Everyone with this role can control the bot.
+> Sets the modrole. Everyone with this role can control the bot.
 
-> !am settings modrole
+```!mt settings modrole```
 
-Shows the current modrole
+> Shows the current modrole
 
 > !am settings modrole exempt [true | false]
 
