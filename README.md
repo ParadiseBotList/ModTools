@@ -9,5 +9,5 @@ ModTools is a bot that provides automoderation capabilities. It uses the [Toxici
 
 The bot is highly configurable. You can specify what punishment a user should recieve after x amount of toxic messages. e.g. Deleting every toxic message and muting a user after every 5 toxic messages.
 
-> The TensorFlow.js toxicity model, which classifies text according to whether it exhibits offensive attributes (i.e. profanity, sexual explicitness). 
+> The TensorFlow.js toxicity model, is a model which classifies text according to whether it exhibits offensive attributes (i.e. profanity, sexual explicitness). 
  
