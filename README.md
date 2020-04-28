@@ -6,12 +6,8 @@ The bot is highly configurable. You can specify what punishment a user should re
 
 # Page Navigation
 ## Table of Contents
-- [About](./README.md)
-- [Bot Permissions](#perms)
-- [Default Prefix](#prefix)
-- [Change Prefix](#newPrefix)
-- [Command List](#commands)
-- [Default Limits](#defLimits)
-- [Screenshots](#examples)
-- [Support](https://discord.gg/MbjZ7xc)
-- [Invite](https://discordapp.com/api/oauth2/authorize?client_id=650872568374493185&permissions=8&scope=bot)
+- [About ModTools](./README.md)
+- [ModTools Commands](./COMMANDS.md)
+- [ModTools Information](./PERFORMANCE.md)
+- [ModTools Support](#newPrefix)
+- [ModTools Invite](#commands)
