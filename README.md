@@ -6,7 +6,7 @@ The bot is highly configurable. You can specify what punishment a user should re
 
 # Page Navigation
 ## Table of Contents
-- [About](./ModTools.md)
+- [About](./README.md)
 - [Bot Permissions](#perms)
 - [Default Prefix](#prefix)
 - [Change Prefix](#newPrefix)
