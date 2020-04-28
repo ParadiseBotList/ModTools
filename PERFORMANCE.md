@@ -1,3 +1,9 @@
+## Page Navigation
+- [About ModTools](./README.md)
+- [ModTools Commands](./COMMANDS.md)
+- [ModTools Invite](https://discordapp.com/api/oauth2/authorize?client_id=634306491310145540&permissions=8&scope=bot)
+
+
 Average processing time of a message. Calculated from 10 samples.
 
 |    Performance    |  Ryzen 5 2600  | Raspberry Pi 3b+ |
